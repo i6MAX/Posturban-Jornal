@@ -7,7 +7,6 @@ body{
 }
 @font-face{
 	font-family: 'Lora', serif;
-	font-weight: bolder;
 }
 .link {
   width: 500px;
@@ -44,7 +43,7 @@ p.ut {
 }
 p.title{
  font-size: 72px;
- 
+ font-weight: bolder;
 }
 .menu-main {
   list-style: none;
