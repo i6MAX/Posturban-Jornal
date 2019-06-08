@@ -6,8 +6,7 @@ body{
 	padding: 0px;
 }
 @font-face{
-	font-family: Baskerville Old Face;
-    src: url(fonts/BASKVILL.TTF);
+	font-family: 'Merriweather', serif;
 }
 .link {
   width: 500px;
