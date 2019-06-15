@@ -1,12 +1,12 @@
 body{
 	background-color: #ffffff;
-	font-family: 'Lora', serif;
+	font-family: 'Playfair Display', serif;
 	width: 100%;
 	margin: 0px;
 	padding: 0px;
 }
 @font-face{
-	font-family: 'Lora', serif;
+	font-family: 'Playfair Display', serif;
 }
 .link {
   width: 500px;
