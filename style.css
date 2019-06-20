@@ -47,10 +47,13 @@ p.aut{
  color: #5f6368;
  margin-right: 15px;	
 }
-.sig{
- font-size: 10px;
- color: #5f6368;
-}
+.fig {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #5f6368;
+   }
 .menu-main {
   list-style: none;
   margin: 40px 0 5px;
@@ -100,7 +103,4 @@ li {
 	 font-size: 26px;
      margin-left: 20px;
      margin-top: 10px; 
-}
-img {
-  aligh="center";
 }
