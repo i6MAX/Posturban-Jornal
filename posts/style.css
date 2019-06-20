@@ -47,6 +47,10 @@ p.aut{
  color: #5f6368;
  margin-right: 15px;	
 }
+.sig{
+ font-size: 10px;
+ color: #5f6368;
+}
 .menu-main {
   list-style: none;
   margin: 40px 0 5px;
