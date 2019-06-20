@@ -31,19 +31,21 @@ body{
   text-decoration: none;
 }
 a.ut {
- text-decoration: none;
  color: #000000;
 }
-p {
- padding-top: 10px;
-}
 p.ut {
- font-size: 32px;
- margin-left: 20px 
+ font-size: 26px;
+ margin-left: 20px;
+ margin-right: 5px; 
 }
 p.title{
  font-size: 72px;
  font-weight: 300;
+}
+p.aut{
+ font-size: 26px;
+ color: #5f6368;
+ margin-right: 15px;	
 }
 .menu-main {
   list-style: none;
@@ -86,4 +88,12 @@ p.title{
 }
 .menu-main a:hover:before, .menu-main .current:before {left: 0;}
 .menu-main a:hover:after, .menu-main .current:after {right: 0;}   
+}
+blockquote {
+	background: #000000;
+}
+li {
+	 font-size: 26px;
+     margin-left: 20px;
+     margin-top: 10px; 
 }
