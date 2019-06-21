@@ -30,18 +30,13 @@ body{
   color: #000000;
   text-decoration: none;
 }
-.content {
-  weight: 720px;
-  margin-left: 60px;
-  margin-right: 60px;
-}
 a.ut {
  color: #000000;
 }
 p.ut {
  font-size: 26px;
- margin-left: 20px;
- margin-right: 5px; 
+ margin-left: 60px;
+ margin-right: 60px; 
 }
 p.title{
  font-size: 72px;
