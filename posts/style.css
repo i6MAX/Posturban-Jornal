@@ -32,6 +32,8 @@ body{
 }
 .content {
   weight: 720px;
+  margin-left: 60px;
+  margin-right: 60px;
 }
 a.ut {
  color: #000000;
