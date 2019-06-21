@@ -1,7 +1,7 @@
 body{
 	background-color: #ffffff;
 	font-family: 'Playfair Display', serif;
-	width: 720px;
+	width: 100%;
 	margin: 0px;
 	padding: 0px;
 }
@@ -29,6 +29,9 @@ body{
   height: 100%;
   color: #000000;
   text-decoration: none;
+}
+.content {
+  weight: 720px;
 }
 a.ut {
  color: #000000;
