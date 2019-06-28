@@ -41,6 +41,12 @@ a.ut {
  color: #000000;
 }
 
+p.aut{
+ font-size: 26px;
+ color: #5f6368;
+ margin-right: 15px;	
+}
+
 .link {
   width: 500px;
   height: 300px;
