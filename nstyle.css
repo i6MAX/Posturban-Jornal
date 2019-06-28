@@ -16,7 +16,7 @@ body {
 .top_menu {}
 
 .content {
-
+        min-height: calc(100vh - 80px);
 }
 
 .footer {
@@ -24,6 +24,7 @@ body {
 	color: #ffffff;
 	font-size: 19px;
 	width: 100%;
+	height: 80px;
 }
 
 .wrapper {
