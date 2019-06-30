@@ -17,6 +17,7 @@ body {
 
 .content {
         min-height: calc(100vh - 80px);
+	width: 720px;
 }
 
 .footer {
