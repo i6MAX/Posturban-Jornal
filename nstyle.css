@@ -70,6 +70,31 @@ p.aut{
   text-decoration: none;
 }
 
+.linka {
+  width: 500px;
+  height: 100px;
+  background: #ffffff;
+  border: 4px;
+  border: solid 1px black;
+  font-size: 30px;
+  text-align: right;
+  padding: 5px;
+  padding-right: 30px;
+  padding-top: 20px;
+  margin: auto;
+}
+
+.linka a {
+  display: block;
+  height: 100%;
+  color: #000000;
+  text-decoration: none;
+}
+
+.linka:hover {
+	background-color: #bfbfbf;
+}
+
 .menu-main {
   list-style: none;
   margin: 40px 0 5px;
