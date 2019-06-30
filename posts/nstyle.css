@@ -31,6 +31,14 @@ body {
 	height: 100%;
 }
 
+.turn {
+  width: 60px;
+  height: 60px;
+  position: absolute;
+  paddimg-left: 15px;
+  padding-top: 15px;
+}
+
 .turn:hover {
 	transform: rotate(90deg);
 	transition: .8s;
