@@ -37,6 +37,7 @@ body {
   position: absolute;
   paddimg-left: 15px;
   padding-top: 15px;
+  align: left;
 }
 
 .turn:hover {
