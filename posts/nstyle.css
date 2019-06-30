@@ -34,13 +34,12 @@ body {
 .turn {
   width: 60px;
   height: 60px;
-  position: absolute;
   left: 20px;
   top: 20px;
 }
 
 .turn:hover {
-	transform: rotate(45deg);
+	transform: rotate(90deg);
 	transition: .8s;
  }
 
