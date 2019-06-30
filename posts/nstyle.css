@@ -133,3 +133,12 @@ p.aut{
 .menu-main a:hover:before, .menu-main .current:before {left: 0;}
 .menu-main a:hover:after, .menu-main .current:after {right: 0;}   
 }
+
+blockquote {
+	background: #000000;
+}
+li {
+	 font-size: 26px;
+     margin-left: 20px;
+     margin-top: 10px; 
+}
