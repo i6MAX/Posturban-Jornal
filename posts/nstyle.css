@@ -41,7 +41,7 @@ body {
 }
 
 .turn:hover {
-	transform: rotate(90deg);
+	transform: rotate(45deg);
 	transition: .8s;
  }
 
