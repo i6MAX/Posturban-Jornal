@@ -47,6 +47,14 @@ p.aut{
  margin-right: 5px;	
 }
 
+.fig {
+    display: block;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: #5f6368;
+   }
+
 .link {
   width: 500px;
   height: 300px;
