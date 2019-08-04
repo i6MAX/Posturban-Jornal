@@ -224,18 +224,18 @@ span.code {
   margin: 0 5px;
   width: 20px;
   height: 20px;
-  background-color: #e8ebd6;
+  background-color: #e6e7e2;
   border: 1px solid #adb870;
   border-radius: 50%;
   cursor: pointer;
 }
 /* line 43, ../sass/_slider.scss */
 #dots ul li:hover {
-  background-color: #d4dab4;
+  background-color: #dee2e1;
 }
 /* line 46, ../sass/_slider.scss */
 #dots ul li.active {
-  background-color: #c1c992;
+  background-color: #aeaba6;
 }
 
 /* line 53, ../sass/_slider.scss */
